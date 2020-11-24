@@ -1,2 +1,2 @@
-# Befunge-Chirp
+# Befunge-Bot
 Twitter bot utilizing webhooks to respond to Befunge code with output
